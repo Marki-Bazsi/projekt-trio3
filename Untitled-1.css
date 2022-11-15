@@ -4,6 +4,10 @@ ul li {
     float: left;
     background-color: #00b9ff;
     background-image: linear-gradient(to bottom left, #00b9ff,#0063ff);
+    text-decoration: none;
+    font-weight: bold;
+    border-left: 2px solid #0084b4;
+    border-right: 1px solid #0084b4;
     color: white;
     font-size: 20px;
 }
