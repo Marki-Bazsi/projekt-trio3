@@ -1,0 +1,13 @@
+ul li {
+    display: block;
+    padding: 10px;
+    float: left;
+    background-color: #00b9ff;
+    background-image: linear-gradient(to bottom left, #00b9ff,#0063ff);
+    color: white;
+    font-size: 20px;
+}
+ul li:hover {
+    background-color: #0000ff;
+    color: #9effff;
+}
