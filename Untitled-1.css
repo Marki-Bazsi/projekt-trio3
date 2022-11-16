@@ -1,4 +1,7 @@
 
+.navbar {
+    position: fixed;
+}
 body ul li {
     display: block;
     padding: 10px;
@@ -21,20 +24,26 @@ body ul li:hover {
 }
 
 
-body h2 {
-    text-decoration: underline;
+body h3 {
+    text-decoration: 2px underline;
 }
 
 body {
     background-repeat: no-repeat;
-    background-image: url("https://adriaholiday.hu/framework/img.php?p=uploads/gallery/9678_848616240028_5054/5c744a06a60396.53971243.jpg&op=;1200x800");
+    background-image: url("https://www.utazas.info/apartment/toscana-cinque-terre--0.jpg?zoom");
+    background-size: cover;
     color: white;
     text-shadow: 4px 4px 6px #000000;
 }
 
-section {
+section{
     border: 4px solid #0084b4;
     background-color: #00295067;
     display: block;
+    padding: 20px;
+}
+
+#latnivalok p {
+    padding-top: 110px;
 }
 
